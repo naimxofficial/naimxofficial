@@ -1,5 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=I'm%20Md.%20Naim%20Uddin&fontSize=30&fontColor=22bcbb&fontAlign=50&fontAlignY=50&rotate=0&stroke=242938&strokeWidth=1&animation=twinkling&descSize=14&descAlign=18&descAlignY=93&textBg=true&color=gradient"  />
+  <img width="1584" height="396" alt="naim_mern_linkedin_banner_v2" src="https://github.com/user-attachments/assets/bce7a3b8-2b14-4204-b0e9-e9b761593c7e" />
+
 </div>
 
 ---
@@ -8,27 +9,27 @@
 
 ---
 
-<div align="left">
-  
-𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 with a strong focus on building modern, scalable, and user-centric web applications. I thrive on turning ideas into high-performance digital experiences using cutting-edge technologies.
-
-<br clear="both">
-
-𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Next.js, React, Hero UI, Daisy UI — crafting beautiful, responsive, and accessible interfaces with excellent UX.
-
-𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Node.js, Express.js — developing robust, RESTful APIs and server-side logic.
-
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: MongoDB — designing efficient schemas and handling complex data operations.
-
-𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 & 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: Better Auth and modern security best practices.
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,expressjs,react,nodejs,tailwindcss,html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,vite,github,bootstrap,git,wordpress,figma,npm" />
 </div>
 
 ---
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,mongodb,expressjs,react,nodejs,tailwindcss,bootstrap,vercel,netlify,git,vite,vscode,wordpress,figma,html,css,javascript,typescript" />
-  <img />
+  
+##### ◑ 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘇𝗶𝗻𝗴 𝗶𝗻 𝘁𝗵𝗲 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 with a strong focus on building modern, scalable, and user-centric web applications. I thrive on turning ideas into high-performance digital experiences using cutting-edge technologies.
+
+<br clear="both">
+
+𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: <i> Next.js, React, Hero UI, Daisy UI — crafting beautiful, responsive, and accessible interfaces with excellent UX. </i>
+
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝: <i> Node.js, Express.js — developing robust, RESTful APIs and server-side logic. </i>
+
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞: <i> MongoDB — designing efficient schemas and handling complex data operations. </i>
+
+𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 & 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲: <i> Better Auth and modern security best practices. </i>
+
 </div>
 
 ---
